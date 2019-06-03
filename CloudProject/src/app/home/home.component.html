@@ -1,0 +1,26 @@
+<div>
+<button pButton type="button" label="Click" icon="pi pi-check" (click)="handleClick($event)"></button>
+</div>
+<div>
+<input type="text" pInputText [(ngModel)]="commmentText"/>
+</div>
+<p-card *ngIf="condition">
+  Gegevens van {{commmentText}}
+  <ul *ngFor="let item of items">
+      <img src={{item.snippet.thumbnails.default.url}} alt="">
+    <li >
+      {{ item.snippet.title}}      
+    </li> 
+    <li>
+        Totaal aantal kijkers : {{ item.statistics.viewCount }}
+       
+    </li>
+  </ul>
+</p-card>
+
+
+<ul *ngFor="let item of commenitems">
+    <li>
+        {{ item.snippet.topLevelComment.snippet.textOriginal }}
+    </li>
+  </ul>

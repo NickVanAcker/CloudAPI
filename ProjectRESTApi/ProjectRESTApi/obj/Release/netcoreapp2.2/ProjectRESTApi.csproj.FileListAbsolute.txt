@@ -1,0 +1,14 @@
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\bin\Release\netcoreapp2.2\ProjectRESTApi.deps.json
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\bin\Release\netcoreapp2.2\ProjectRESTApi.runtimeconfig.json
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\bin\Release\netcoreapp2.2\ProjectRESTApi.runtimeconfig.dev.json
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\bin\Release\netcoreapp2.2\ProjectRESTApi.dll
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\bin\Release\netcoreapp2.2\ProjectRESTApi.pdb
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\obj\Release\netcoreapp2.2\ProjectRESTApi.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\obj\Release\netcoreapp2.2\ProjectRESTApi.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\obj\Release\netcoreapp2.2\ProjectRESTApi.RazorAssemblyInfo.cache
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\obj\Release\netcoreapp2.2\ProjectRESTApi.RazorAssemblyInfo.cs
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\obj\Release\netcoreapp2.2\ProjectRESTApi.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\obj\Release\netcoreapp2.2\ProjectRESTApi.AssemblyInfo.cs
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\obj\Release\netcoreapp2.2\ProjectRESTApi.RazorTargetAssemblyInfo.cache
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\obj\Release\netcoreapp2.2\ProjectRESTApi.dll
+C:\Users\Nick\Documents\School\Cloud API\ProjectRESTApi\ProjectRESTApi\obj\Release\netcoreapp2.2\ProjectRESTApi.pdb
