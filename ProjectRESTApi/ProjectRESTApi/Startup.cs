@@ -40,7 +40,7 @@ namespace ProjectRESTApi
             }).AddJwtBearer(options =>
             {
                 options.Authority = "https://dev-cloudapi.eu.auth0.com";
-                options.Audience = "http://localhost:10000/api/v1/leerkracht";
+                options.Audience = "https://leerkrachten.aphogeschool.com/";
             });
         }
 

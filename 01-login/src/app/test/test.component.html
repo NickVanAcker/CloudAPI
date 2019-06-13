@@ -1,0 +1,37 @@
+<div>
+<input type="text" pInputText [(ngModel)]="fname" pInputText placeholder="Voornaam"/>
+</div>
+<div>
+    <input type="text" pInputText [(ngModel)]="lname" pInputText placeholder="Achternaam"/>
+</div>
+<div>
+    <input type="text" pInputText [(ngModel)]="email" pInputText placeholder="Email" pattern="^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$" />   
+</div>
+<div>
+    <p-dropdown [options]="gender" [(ngModel)]="selectedGender"></p-dropdown>
+</div>
+<div>
+    <input type="text" pInputText [(ngModel)]="ip" pInputText placeholder="IP-ADDRESS"/>   
+</div>
+<div>
+    <input type="text" pInputText [(ngModel)]="straat" pInputText placeholder="straat"/>
+</div>
+
+<div>
+    <input type="number" pInputText [(ngModel)]="postcode" pInputText placeholder="Postcode"/>
+</div>
+
+<div>
+    <input type="text" pInputText [(ngModel)]="number" pInputText placeholder="nummer"/>
+</div>
+
+<button (click)="onClickMe()">Verstuur informatie naar API</button>
+
+<!-- id: number;
+firstName: string;
+lastName: string;
+email: string;
+gender: string;
+ipAddress: string;
+street: string;
+number: string; -->

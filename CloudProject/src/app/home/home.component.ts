@@ -30,7 +30,6 @@ export class HomeComponent implements OnInit {
 
     this.YTService.GetCommentData(10).subscribe((res)=> {
       this.commenitems = res.items 
-      console.log(this.commenitems)
     });
 }
 

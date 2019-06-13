@@ -28,7 +28,7 @@ namespace ProjectRESTApi
 
         public int Postcode { get; set; }
 
-        [Required]
+        
         public string Number { get; set; }
 
 
